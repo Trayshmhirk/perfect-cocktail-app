@@ -83,6 +83,9 @@ footer p{
     text-align: right;
 }
 
+tr th {
+    color: #ffffff !important;
+}
 
 @media screen and (max-width: 468px) {
     .sitename {
